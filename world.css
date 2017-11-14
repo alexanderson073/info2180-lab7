@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: Cambria;
+}
+.error{
+    padding: 5px 0;
+    color: red;
+    border-radius: 4px;
+}
+button{
+    display: inline-block;
+    background: #5c5cd6;
+    color: #fff;
+}
+input#country{
+
+}
+button,input#country{
+    border: 1px solid #444;
+    padding: 4px 1em;
+}
+h1{
+    background-color: Blue;
+    color: white;
+    margin: 0;
+    padding: 8px 16px;
+    text-align: center;
+}
+#controls, #result{
+    margin: 1em;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+ul li{
+    margin-bottom: 8px;
+}
